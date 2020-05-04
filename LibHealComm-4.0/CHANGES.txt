@@ -1,0 +1,22 @@
+tag 5050022ddf3d81d9fc2e3a0e329915813ac85cbe v1.7.1
+Author:	Azilroka <darktemplar9900@yahoo.com>
+Date:	Sat Nov 16 13:42:06 2019 -0600
+
+commit 939821b511d716d1e2173a78ab8af1c8ba2d3183
+Author: Azilroka <darktemplar9900@yahoo.com>
+Date:   Fri Nov 15 21:21:06 2019 -0600
+
+    minor 78
+
+commit d195402cd5455b4b9bc46f0b6bde92b463f2abea
+Author: Azilroka <darktemplar9900@yahoo.com>
+Date:   Fri Nov 15 21:20:30 2019 -0600
+
+    Fixed channeled heals and added bandages #65
+
+commit 180ecdc921fe54767a85202cfdf2217f91a9d1a7
+Author: Azilroka <darktemplar9900@yahoo.com>
+Date:   Fri Nov 15 09:43:36 2019 -0600
+
+    fix Flash Heal Levels
+
